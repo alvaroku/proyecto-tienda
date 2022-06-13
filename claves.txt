@@ -1,0 +1,6 @@
+mysql localhost
+dbname: db_proyecto 
+host:localhost
+user: root
+pass: 
+
